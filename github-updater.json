@@ -1,6 +1,5 @@
 {
   "version": "0.2.0-indev",
-  "username": "woubuc",
-  "repository": "github-test-repo",
+  "repository": "woubuc/github-test-repo",
   "match": "0.x"
 }
